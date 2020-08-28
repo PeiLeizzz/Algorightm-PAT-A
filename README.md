@@ -1,4 +1,4 @@
-# Algorightm-PAT-A
+# Algorithm-PAT-A
 
 > The solutions of the algorithm problems in PAT-A
 
